@@ -1,0 +1,20 @@
+{
+        "gateway_conf": {
+                "gateway_ID": "B827EBFFFEC0F619",
+                "servers":
+                [
+                  {
+                    "server_address":
+                    "router.eu.thethings.network",
+                    "serv_port_up": 1700,
+                    "serv_port_down": 1700,
+                    "serv_enabled": true
+                  }
+                ],
+                "ref_latitude": 46.39146933,
+                "ref_longitude": 6.93575475,
+                "ref_altitude": 375,
+                "contact_email": "roman.banz@pst-smartcity.ch",
+                "description": "zada Gateway in Villeneuve"
+        }
+}
